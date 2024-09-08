@@ -15,6 +15,6 @@ Usage
 While this repository is primarily for my personal use, I welcome suggestions for improvements. Please open an issue or submit a pull request if you have any recommendations.
 
 # Contact
-Feel free to reach out to me via LinkedIn or email me at krupalkukadiya0204@example.com for any inquiries or opportunities.
+Feel free to reach out to me via LinkedIn or email me at krupalkukadiya0204@gmail.com for any inquiries or opportunities.
 
 Thank you for visiting my resume repository. I look forward to connecting with you!
