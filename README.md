@@ -1,4 +1,4 @@
-# My Professional Resume
+# Resume
 Welcome to the repository for my professional resume! This project includes my resume in multiple formats to ensure accessibility and ease of use.
 
 # Overview
